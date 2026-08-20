@@ -1,1 +1,5 @@
+vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
